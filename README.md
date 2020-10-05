@@ -4,11 +4,15 @@
 # 1. Project Overview, Introduction and Requirements specification
 
 
+The purpose of this final project is to showcase skills and competencies developed over the duration of two years in the CWEB program at Dunwoody.
+
 ## 1.1. Introduction
 
 
 ## 1.2. Project Overview
+A revamping of Micro Center's website. Outdated visual elements such as the bland color scheme & mismatching button shapes and colors will be replaced with modern web styling, giving new life to a website that looks like it hadn't been updated since the 90s.
 
+New website will have a mobile-first approach to design, with touch-responsive elements.
 
 ## 1.3. Project Scope
 ### 1.3.1 Features the project _must_ implement
@@ -21,24 +25,29 @@
  - Responsive (mobile first) design
  - Use a color palette/theme that is familiar to existing customers
  - Retain the functions that are currently available to guests and registered users
+ - Payment platform to diversify payment options
 
 ### 1.3.2 Features the project _should_ implement
  - Project should function in a hosted environment
  - Project code should be in a github or other online repository
 
- - Prompt for and store user's location
  - Use transitions for improved UI/UX
+ - Grab user's IP address for cookie purposes
+ - Prompt for and store user's location
 
 ### 1.3.3 Features the project _could_ implement
  - Check for electronic payment methods
- - Grab user's IP address for cookie purposes
- - Dark/light mode
+ - Ability for user to switch between light/dark screen modes to cater to early bird and night owl shoppers
 
 ### 1.3.4 Features the project _will not_ implement
-
+ - Users will not be able to use this as a full replacement for the original website
 
 ## 1.4. Project Requirements
+ID | User Story | Priority | Acceptance Criteria | Estimated Difficulty | Status
+:-: | :-- | :-: | :-- | :-: | :--
+&nbsp; | &nbsp; | A - high priority<br>D - low priority | &nbsp; | 1 - easy<br>100 - hard | Backlog<br>In progress<br>Done
 
+ 
 
 ## 1.5. Definitions, Acronyms, and Abbreviations used in documentation
  - UX
@@ -46,21 +55,24 @@
 
 
 ---
+
 # 2. Analysis
 ## 2.1. Description of Problem
-• diversity of payment plans
-• ux alive animations
+ - minimal diversity of payment options
+ - little to no animations with interactions
+ - only one method of SSO (Google)
 
 ## 2.2. Technologies Used
+ - HTML CSS JS JQUERY C# MVC
+ - Github (repository)
  - Github Student Pack
    - Weglot (website translator) ?
    - Canva (graphics) ?
    - (icons) ?
    - GitKraken Boards
- - Github (repository)
- - HTML CSS JS JQUERY C# MVC
  - coolors.co (for site palette/color theme)
  - Origami (wireframes)
+ - Visio (diagrams)
 
  - stripe (payment platform)
  - Square .NET SDK (payment platform)
