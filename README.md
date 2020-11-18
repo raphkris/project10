@@ -44,16 +44,6 @@ New website will have a mobile-first approach to design, with touch-responsive e
  - Users will not be able to use this as a full replacement for the original website
 
 ## 1.4. Project Requirements
-ID | User Story | Priority | Acceptance Criteria | Estimated Difficulty | Status
-:-: | :-- | :-: | :-- | :-: | :--
-&nbsp; | &nbsp; | A - high priority<br>D - low priority | &nbsp; | 1 - easy<br>100 - hard | Backlog<br>In progress<br>Done
-&nbsp; | As a customer, I want to be able to create an account. | A - high priority<br>D - low priority | &nbsp; | 1 - easy<br>100 - hard | Backlog<br>In progress<br>Done
-&nbsp; | As a customer, I want to be able to log in to my account. | A - high priority<br>D - low priority | &nbsp; | 1 - easy<br>100 - hard | Backlog<br>In progress<br>Done
-&nbsp; | As a customer, I want to be able to manage my account. | A - high priority<br>D - low priority | &nbsp; | 1 - easy<br>100 - hard | Backlog<br>In progress<br>Done
-&nbsp; | As a customer, I want to be able to delete my account. | A - high priority<br>D - low priority | &nbsp; | 1 - easy<br>100 - hard | Backlog<br>In progress<br>Done
-&nbsp; | As a customer, I want to be able to view products by filter parameters. | A - high priority<br>D - low priority | &nbsp; | 1 - easy<br>100 - hard | Backlog<br>In progress<br>Done
-&nbsp; | As an administrator, I want to be able to manage product inventory. | A - high priority<br>D - low priority | &nbsp; | 1 - easy<br>100 - hard | Backlog<br>In progress<br>Done
-
 ID | Status | Priority | User Story | Estimated Difficulty | Acceptance Criteria
 :-: | :-- | :-: | :-- | :-: | :--
 &nbsp; | Backlog<br>In progress<br>Done | A – high priority<br>D – low priority | &nbsp; | 1 – easy<br>100 – hard | &nbsp;
