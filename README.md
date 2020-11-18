@@ -34,10 +34,11 @@ New website will have a mobile-first approach to design, with touch-responsive e
  - Use transitions for improved UI/UX
  - Grab user's IP address for cookie purposes
  - Prompt for and store user's location
+ - Ability for user to switch between day/night modes to cater to early bird and night owl shoppers
+ - Get time user's time zone for day/night mode
 
 ### 1.3.3 Features the project _could_ implement
  - Check for electronic payment methods
- - Ability for user to switch between light/dark screen modes to cater to early bird and night owl shoppers
 
 ### 1.3.4 Features the project _will not_ implement
  - Users will not be able to use this as a full replacement for the original website
@@ -46,10 +47,37 @@ New website will have a mobile-first approach to design, with touch-responsive e
 ID | User Story | Priority | Acceptance Criteria | Estimated Difficulty | Status
 :-: | :-- | :-: | :-- | :-: | :--
 &nbsp; | &nbsp; | A - high priority<br>D - low priority | &nbsp; | 1 - easy<br>100 - hard | Backlog<br>In progress<br>Done
+&nbsp; | As a customer, I want to be able to create an account. | A - high priority<br>D - low priority | &nbsp; | 1 - easy<br>100 - hard | Backlog<br>In progress<br>Done
+&nbsp; | As a customer, I want to be able to log in to my account. | A - high priority<br>D - low priority | &nbsp; | 1 - easy<br>100 - hard | Backlog<br>In progress<br>Done
+&nbsp; | As a customer, I want to be able to manage my account. | A - high priority<br>D - low priority | &nbsp; | 1 - easy<br>100 - hard | Backlog<br>In progress<br>Done
+&nbsp; | As a customer, I want to be able to delete my account. | A - high priority<br>D - low priority | &nbsp; | 1 - easy<br>100 - hard | Backlog<br>In progress<br>Done
+&nbsp; | As a customer, I want to be able to view products by filter parameters. | A - high priority<br>D - low priority | &nbsp; | 1 - easy<br>100 - hard | Backlog<br>In progress<br>Done
+&nbsp; | As an administrator, I want to be able to manage product inventory. | A - high priority<br>D - low priority | &nbsp; | 1 - easy<br>100 - hard | Backlog<br>In progress<br>Done
 
+ID | Status | Priority | User Story | Estimated Difficulty | Acceptance Criteria
+:-: | :-- | :-: | :-- | :-: | :--
+&nbsp; | Backlog<br>In progress<br>Done | A – high priority<br>D – low priority | &nbsp; | 1 – easy<br>100 – hard | &nbsp;
+x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to create an account. | diff | acc
+x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to log in to my account. | diff | acc
+x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to manage my account. | diff | acc
+x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to delete my account. | diff | acc
+x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to view products by filter parameters. | diff | acc
+x | Backlog<br>In progress<br>Done |  |  | diff | acc
+x | Backlog<br>In progress<br>Done |  |  | diff | acc
+x | Backlog<br>In progress<br>Done |  | As an administrator, I want to be able to manage product inventory. | diff | acc
+x | Backlog<br>In progress<br>Done |  |  | diff | acc
+x | Backlog<br>In progress<br>Done |  |  | diff | acc
  
 
 ## 1.5. Definitions, Acronyms, and Abbreviations used in documentation
+ - AES
+ - bcrypt
+ - Hash
+ - Hashing algorithm
+ - IP address
+ - MD5
+ - Salt
+ - SHA
  - UX
  - UI
 
@@ -63,21 +91,23 @@ ID | User Story | Priority | Acceptance Criteria | Estimated Difficulty | Status
  - only one method of SSO (Google)
 
 ## 2.2. Technologies Used
- - HTML CSS JS JQUERY C# MVC
- - Github (repository)
- - Github Student Pack
-   - Weglot (website translator) ?
-   - Canva (graphics) ?
-   - (icons) ?
-   - GitKraken Boards
- - coolors.co (for site palette/color theme)
- - Origami (wireframes)
- - Visio (diagrams)
-
+ - POSSIBLE
+	- Weglot (website translator) ?
+	- Canva (graphics) ?
+	- (icons) ?
+	- GitKraken Boards
+	- coolors.co (for site palette/color theme)
+	- Origami (wireframes)
+	- Visio (diagrams)
  - stripe (payment platform)
  - Square .NET SDK (payment platform)
  - Braintree GraphQL API (payment platform)
  - Auth0 (SSO)
+ - CERTAIN
+	- HTML CSS JS JQUERY C# MVC
+	- Github (repository)
+	- Github Student Pack
+	- Bootstrap 4
 
 
 ## 2.3. System Architecture
