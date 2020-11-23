@@ -3,17 +3,36 @@
 
 # 1. Project Overview, Introduction and Requirements specification
 
-The purpose of this final project is to showcase skills and competencies developed over the duration of two years in the CWEB program at Dunwoody.
+The redesign of Micro Center's website in December 2008 introduced a new layout –
+the search bar, store location drop-down menu, shortcuts to the shopping cart, and user account functions located in the header;
+product advertisements in the body;
+and additional product advertisements stacked vertically on either side of the body, with the expanded navigation bar found above the advertisements in the left column.
+The website was last redesigned in July 2014, bringing forth a new look that we still see today.
+Regardless, the website's familiar layout remains primarily unchanged from what was introduced in the 2008 redesign.
+While there have been some minor updates to design elements since then, the UI and graphics remain largely inoffensive.
+This is not objectionable as they still do serve their purpose, which is just that – to remain inoffensive so as to not distract from the online shopping experience that customers are familiar with.
+However, the website needs an update.
+UX elements, for example, already have a presence throughout the website, but they are too far and too few.
+A solution may be to increase their use and variety, which can be used to invoke an emotional response in users that leads to a boost in sales and overall customer satisfactory ratings.
+Another solution may be to implement features that facilitate the buying process so customers are able to purchase their items more quickly.
+Such solutions to a problem – the website needing an update – are what I want to achieve with this project.
+I want Micro Center's website to have a modern online shopping experience that reflects today's standard of UI and UX,
+and to share that experience with all of Micro Center's customers.
 
 
 ## 1.1. Introduction
 
+My name is Raphael Mangubat. I am a student in my fourth and final semester at Dunwoody College of Technology located in Minneapolis, Minnesota. The purpose of this project's development is to showcase – and demonstrate application of – the skills and competencies acquired over a two-year duration in studying web development & database programming. In addition, this project fulfills requirements for the following courses: (list)
 
 
 ## 1.2. Project Overview
+
 A revamping of Micro Center's website. Outdated visual elements such as the bland color scheme & mismatching button shapes and colors will be replaced with modern web styling, giving new life to a website that looks like it hadn't been updated since the 90s.
 
 New website will have a mobile-first approach to design, with touch-responsive elements.
+
+
+
 
 
 ## 1.3. Project Scope
