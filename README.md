@@ -13,7 +13,7 @@ My name is Raphael Mangubat. I am a student in my fourth and final semester at D
 
 ## 1.2. Project Overview
 
-The primary goals of this project are updating Micro Center's current website UI with a clean, friendlier experience and improving upon functions such as user sign-in and payment options. The new website will be redesigned using a mobile-first approach, prioritizing user-friendliness with smaller devices as technology is still becoming increasingly portable in nature. The UI will also be updated with modern design elements that reflect today's graphics standards. Pre-existing features such as payment and order processing, shopping cart, and user account operations will be retained. Of these features, improvements will be made to payment processing by adding various other methods of payment for users to choose from during the checkout process. In addition, user account operations will be improved by offering additional SSO options.
+The primary goals of this project are updating Micro Center's current website UI with a clean, friendlier experience and improving upon functions such as user sign-in and payment options. The new website will be redesigned using a mobile-first approach, prioritizing user-friendliness with smaller devices as technology is still becoming increasingly portable in nature. The UI will also be updated with modern design elements that reflect today's graphics standards. Most pre-existing features such as payment and order processing, shopping cart, and user account operations will be retained. Of these features, improvements will be made to payment processing by adding various other methods of payment for users to choose from during the checkout process. In addition, user account operations will be improved by offering additional SSO options.
 
 - Update UI
 	- Mobile-first approach
@@ -34,48 +34,57 @@ The primary goals of this project are updating Micro Center's current website UI
 
 ## 1.3. Project Scope
 ### 1.3.1 Features the project _must_ implement
-#### (__project__ focused features)
- - Project must use a database (not hard coded values within html code)
- - Project must demonstrate the use of a configuration file outside of the code (an application.ini file or web.config)
- - Project must use a secure algorithm to hash the password (either system default or one of the modern hashing algorithms with salt like bcrypt or SHA-512/224 - DO NOT USE md5 or SHA-1 or 2)
- - Project must use parameterized queries [NO concatenated strings for queries]
- - Project must encrypt user sensitive data [using a secure algorithm for encryption like AES or blowfish/twofish]
- - Project should function in a hosted environment
- - Project code should be in a github or other online repository
-#### (__product__ focused features)
- - Responsive (mobile first) design
- - Use a color palette/theme that is familiar to existing customers
- - Retain the functions that are currently available to guests and registered users
- - Payment platform to diversify payment options
+#### 1.3.1.1 __Project__ focused features
+- Project must use a database (not hard coded values within html code)
+- Project must demonstrate the use of a configuration file outside of the code (an application.ini file or web.config)
+- Project must use a secure algorithm to hash the password (either system default or one of the modern hashing algorithms with salt like bcrypt or SHA-512/224 - DO NOT USE md5 or SHA-1 or 2)
+- Project must use parameterized queries [NO concatenated strings for queries]
+- Project must encrypt user sensitive data [using a secure algorithm for encryption like AES or blowfish/twofish]
+- Project should function in a hosted environment
+- Project code should be in a github or other online repository
+
+
+#### 1.3.1.2 __Product__ focused features
+- Project must be designed using a mobile-first approach.
+- Project must have a modernized UI.
+- Project must retain most of the website's pre-existing features.
+- Project must implement the necessary systems and technologies to diversify user sign-in options.
+- Project must implement the necessary systems and technologies to diversify user payment options.
+- Project must have a portal for website administrators to manage products and product information.
+
 
 ### 1.3.2 Features the project _should_ implement
+- Project should use a color palette that is familiar to customers.
+- Project should offer users the ability to switch between light and dark interface themes.
+- Project should allow users to change their account email.
+- Project should allow users to change their account password.
 
- - Use transitions for improved UI/UX
- - Grab user's IP address for cookie purposes
- - Prompt for and store user's location
- - Ability for user to switch between day/night modes to cater to early bird and night owl shoppers
- - Get time user's time zone for day/night mode
 
 ### 1.3.3 Features the project _could_ implement
- - Check for electronic payment methods
+- Project could request user for their location.
+- Project could get user's time zone to automatically switch between light and dark interface themes.
+- Project could utilize cookies to customize guest users' shopping experience.
+
 
 ### 1.3.4 Features the project _will not_ implement
- - Users will not be able to use this as a full replacement for the original website.
+- Project will not replace the original website.
+- Project will not send emails to users.
+- Project will not allow users to purchase, return, or exchange real products in exchange for real currency.
+
 
 ## 1.4. Project Requirements
 ID | Status | Priority | User Story | Estimated Difficulty | Acceptance Criteria
 :-: | :-- | :-: | :-- | :-: | :--
 &nbsp; | Backlog<br>In progress<br>Done | A – high priority<br>D – low priority | &nbsp; | 1 – easy<br>100 – hard | &nbsp;
-x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to create an account. | diff | acc
-x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to log in to my account. | diff | acc
-x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to manage my account. | diff | acc
-x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to delete my account. | diff | acc
-x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to view products by filter parameters. | diff | acc
-x | Backlog<br>In progress<br>Done |  |  | diff | acc
-x | Backlog<br>In progress<br>Done |  |  | diff | acc
-x | Backlog<br>In progress<br>Done |  | As an administrator, I want to be able to manage product inventory. | diff | acc
-x | Backlog<br>In progress<br>Done |  |  | diff | acc
-x | Backlog<br>In progress<br>Done |  |  | diff | acc
+x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to create an account. | diff | Function is pre-existing and will be carried over into redesign.
+x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to connect an account from another service to quickly log in. | diff | The login screen will display multiple sign in options when users are logged out.
+x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to manage my account. | diff | When logged in, a link to the account settings page can be found under the username displayed in the header, or within the navigation menu if viewed on mobile.
+x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to delete my account. | diff | An option to delete the user account can be found at the bottom of the account settings page.
+x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to change my account email. | diff | User email can be changed in the account settings page.
+x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to change my account password. | diff | Account password can be changed in the account settings page.
+x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to view products by filter parameters. | diff | When viewing products, filters can be found in the left column, or directly under the header when viewed on mobile.
+x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to pay by using other services. | diff | Multiple different payment options will be displayed during the payment section of the checkout process.
+x | Backlog<br>In progress<br>Done |  | As an administrator, I want to be able to manage product inventory. | diff | An admin area is available when visiting the admin portal website.
  
 
 ## 1.5. Definitions, Acronyms, and Abbreviations used in documentation
@@ -92,6 +101,7 @@ x | Backlog<br>In progress<br>Done |  |  | diff | acc
 
 
 ---
+
 
 # 2. Analysis
 ## 2.1. Description of Problem
@@ -135,6 +145,7 @@ x | Backlog<br>In progress<br>Done |  |  | diff | acc
 
 
 ---
+
 
 # 3. Design
 ## 3.1. Architecture design 
