@@ -22,17 +22,28 @@ and to share that experience with all of Micro Center's customers.
 
 ## 1.1. Introduction
 
-My name is Raphael Mangubat. I am a student in my fourth and final semester at Dunwoody College of Technology located in Minneapolis, Minnesota. The purpose of this project's development is to showcase – and demonstrate application of – the skills and competencies acquired over a two-year duration in studying web development & database programming. In addition, this project fulfills requirements for the following courses: (list)
+My name is Raphael Mangubat. I am a student in my fourth and final semester at Dunwoody College of Technology located in Minneapolis, Minnesota. The purpose of this project's development is to showcase – and demonstrate application of – the skills and competencies acquired over a two-year duration in studying web development & database programming. In addition, this project fulfills requirements for the following courses: Advanced Topics (CWEB2135), Business Applications (CWEB2011), and Database Systems (CWEB2121).
 
 
 ## 1.2. Project Overview
 
-A revamping of Micro Center's website. Outdated visual elements such as the bland color scheme & mismatching button shapes and colors will be replaced with modern web styling, giving new life to a website that looks like it hadn't been updated since the 90s.
+The primary goals of this project are updating Micro Center's current website UI with a clean, friendlier experience and improving upon functions such as user sign-in and payment options. The new website will be redesigned using a mobile-first approach, prioritizing user-friendliness with smaller devices as technology is still becoming increasingly portable in nature. The UI will also be updated with modern design elements that reflect today's graphics standards. Pre-existing features such as payment and order processing, shopping cart, and user account operations will be retained. Of these features, improvements will be made to payment processing by adding various other methods of payment for users to choose from during the checkout process. In addition, user account operations will be improved by offering additional SSO options.
 
-New website will have a mobile-first approach to design, with touch-responsive elements.
-
-
-
+- Update UI
+	- Mobile-first approach
+- Retain pre-existing features
+	- Payment & order processing
+	- Shopping Cart
+	- User account operations
+		- Google SSO
+- Improve pre-existing features
+	- Payment & order processing (payment options)
+		- Apple Pay
+		- PayPal
+		- Google Wallet
+	- User account operations
+		- Apple SSO
+		- Facebook SSO
 
 
 ## 1.3. Project Scope
