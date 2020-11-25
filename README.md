@@ -76,15 +76,15 @@ The primary goals of this project are updating Micro Center's current website UI
 ID | Status | Priority | User Story | Estimated Difficulty | Acceptance Criteria
 :-: | :-- | :-: | :-- | :-: | :--
 &nbsp; | Backlog<br>In progress<br>Done | A – high priority<br>D – low priority | &nbsp; | 1 – easy<br>100 – hard | &nbsp;
-x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to create an account. | diff | Function is pre-existing and will be carried over into redesign.
-x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to connect an account from another service to quickly log in. | diff | The login screen will display multiple sign in options when users are logged out.
-x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to manage my account. | diff | When logged in, a link to the account settings page can be found under the username displayed in the header, or within the navigation menu if viewed on mobile.
-x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to delete my account. | diff | An option to delete the user account can be found at the bottom of the account settings page.
-x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to change my account email. | diff | User email can be changed in the account settings page.
-x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to change my account password. | diff | Account password can be changed in the account settings page.
-x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to view products by filter parameters. | diff | When viewing products, filters can be found in the left column, or directly under the header when viewed on mobile.
-x | Backlog<br>In progress<br>Done |  | As a customer, I want to be able to pay by using other services. | diff | Multiple different payment options will be displayed during the payment section of the checkout process.
-x | Backlog<br>In progress<br>Done |  | As an administrator, I want to be able to manage product inventory. | diff | An admin area is available when visiting the admin portal website.
+1 | In progress | A | As a customer, I want to be able to create an account. | 2 | Function is pre-existing and will be carried over into redesign.
+2 | In progress | A | As a customer, I want to be able to connect an account from another service to quickly log in. | 55 | The login screen will display multiple sign in options when users are logged out.
+3 | In progress | A | As a customer, I want to be able to manage my account. | 3 | When logged in, a link to the account settings page can be found under the username displayed in the header, or within the navigation menu if viewed on mobile.
+4 | In progress | B | As a customer, I want to be able to delete my account. | 8 | An option to delete the user account can be found at the bottom of the account settings page.
+5 | In progress | B | As a customer, I want to be able to change my account email. | 8 | User email can be changed in the account settings page.
+6 | In progress | B | As a customer, I want to be able to change my account password. | 13 | Account password can be changed in the account settings page.
+7 | In progress | C | As a customer, I want to be able to view products by filter parameters. | 21 | When viewing products, filters can be found in the left column, or directly under the header when viewed on mobile.
+8 | In progress | A | As a customer, I want to be able to pay by using other services. | 55 | Multiple different payment options will be displayed during the payment section of the checkout process.
+9 | In progress | A | As an administrator, I want to be able to manage product inventory. | 13 | An admin area is available when visiting the admin portal website.
  
 
 ## 1.5. Definitions, Acronyms, and Abbreviations used in documentation
