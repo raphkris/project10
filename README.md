@@ -40,8 +40,6 @@ This project's primary goals are updating Micro Center's current website UI with
 - Project must use a secure algorithm to hash the password (either system default or one of the modern hashing algorithms with salt like bcrypt or SHA-512/224 - DO NOT USE md5 or SHA-1 or 2)
 - Project must use parameterized queries [NO concatenated strings for queries]
 - Project must encrypt user sensitive data [using a secure algorithm for encryption like AES or blowfish/twofish]
-- Project should function in a hosted environment
-- Project code should be in a github or other online repository
 
 
 #### 1.3.1.2 __Product__ focused features
@@ -54,6 +52,11 @@ This project's primary goals are updating Micro Center's current website UI with
 
 
 ### 1.3.2 Features the project _should_ implement
+#### 1.3.2.1 __Project__ focused features
+- Project should function in a hosted environment
+- Project code should be in a github or other online repository
+
+#### 1.3.2.2 __Product__ focused features
 - Project should use a color palette that is familiar to customers.
 - Project should offer users the ability to switch between light and dark interface themes.
 - Project should allow users to change their account email.
