@@ -113,26 +113,32 @@ ID | Status | Priority | User Story | Estimated Difficulty | Acceptance Criteria
  - only one method of SSO (Google)
 
 ## 2.2. Technologies Used
- - POSSIBLE
-	- Weglot (website translator) ?
-	- Canva (graphics) ?
-	- (icons) ?
-	- GitKraken Boards
-	- coolors.co (for site palette/color theme)
-	- Origami (wireframes)
-	- Visio (diagrams)
- - stripe (payment platform)
- - Square .NET SDK (payment platform)
- - Braintree GraphQL API (payment platform)
- - Auth0 (SSO)
+- POSSIBLE
+	- stripe (payment platform)
+	- Square .NET SDK (payment platform)
+	- Braintree GraphQL API (payment platform)
+	- Auth0 (SSO)
 
-
- - CERTAIN
-	- HTML CSS JS JQUERY C# MVC
-	- Github (repository)
-	- Github Student Pack
-	- Bootstrap 4
-	- Bootswatch: Flatly (Bootstrap theme)
+- CERTAIN
+	- LANGUAGES
+		- HTML
+		- CSS
+		- JS
+		- C#
+	- FRAMEWORKS
+		- JQUERY
+		- MVC
+		- Bootstrap 4
+	- SERVICES
+		- Github (for repository)
+		- Github Student Pack
+	- PROGRAMS
+		- Visual Studio
+		- VSCODE
+		- draw.io (diagrams)
+		- Microsoft Word
+	- HOSTING
+		- namecheap (domain)
 
 
 ## 2.3. System Architecture
@@ -140,8 +146,106 @@ ID | Status | Priority | User Story | Estimated Difficulty | Acceptance Criteria
 
 
 ## 2.4. Use Case Diagrams and Descriptions
+(diagrams in draw.io)
 
+CREATE ACCOUNT Use Case | &nbsp;
+--: | :--
+Name: | Create Account
+Actor: | Guest
+Description: | Describes the process used to create an account
+Successful completion: | 
+Alternative: | 
+Precondition: | 
+Postcondition: | 
+Assumptions: | 
 
+TITLE Use Case | &nbsp;
+--: | :--
+Name: | 
+Actor: | Guest
+Description: | 
+Successful completion: | 
+Alternative: | 
+Precondition: | 
+Postcondition: | 
+Assumptions: | 
+
+TITLE Use Case | &nbsp;
+--: | :--
+Name: | 
+Actor: | Guest
+Description: | 
+Successful completion: | 
+Alternative: | 
+Precondition: | 
+Postcondition: | 
+Assumptions: | 
+
+TITLE Use Case | &nbsp;
+--: | :--
+Name: | 
+Actor: | Guest
+Description: | 
+Successful completion: | 
+Alternative: | 
+Precondition: | 
+Postcondition: | 
+Assumptions: | 
+
+TITLE Use Case | &nbsp;
+--: | :--
+Name: | 
+Actor: | Guest
+Description: | 
+Successful completion: | 
+Alternative: | 
+Precondition: | 
+Postcondition: | 
+Assumptions: | 
+
+TITLE Use Case | &nbsp;
+--: | :--
+Name: | 
+Actor: | Guest
+Description: | 
+Successful completion: | 
+Alternative: | 
+Precondition: | 
+Postcondition: | 
+Assumptions: | 
+
+TITLE Use Case | &nbsp;
+--: | :--
+Name: | 
+Actor: | Guest
+Description: | 
+Successful completion: | 
+Alternative: | 
+Precondition: | 
+Postcondition: | 
+Assumptions: | 
+
+TITLE Use Case | &nbsp;
+--: | :--
+Name: | 
+Actor: | Guest
+Description: | 
+Successful completion: | 
+Alternative: | 
+Precondition: | 
+Postcondition: | 
+Assumptions: | 
+
+TITLE Use Case | &nbsp;
+--: | :--
+Name: | 
+Actor: | Admin
+Description: | 
+Successful completion: | 
+Alternative: | 
+Precondition: | 
+Postcondition: | 
+Assumptions: | 
 
 ## 2.5. (additional sections for any other mockups and diagrams available)
 
