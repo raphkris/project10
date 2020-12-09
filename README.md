@@ -113,6 +113,8 @@ ID | Status | Priority | User Story | Estimated Difficulty | Acceptance Criteria
  - little to no animations with interactions
  - only one method of SSO (Google)
 
+
+
 ## 2.2. Technologies Used
 - POSSIBLE
 	- stripe (payment platform)
@@ -209,7 +211,7 @@ Successful completion: | 1. Registered User selects "Account" link located in na
 Alternative: | 1. Registered User selects "Account" link located in navigation menu.<br>2. Registered User selects "Manage Account" link.<br>3. Registered User selects "Change password" option.<br>4. Registered User completes the password update form.<br>5. "Password does not meet the requirements." modal is displayed.
 Precondition: | Registered User wants to update the password associated with their ecommerce website account.
 Postcondition: | Registered User's account password is updated.
-Assumptions: | Registered user is currently logged in using an account associated with the ecommerce website.
+Assumptions: | Registered User is currently logged in using an account associated with the ecommerce website.
 
 FILTER PRODUCTS Use Case | &nbsp;
 --: | :--
