@@ -213,7 +213,7 @@ Assumptions: | Registered user is currently logged in using an account associate
 
 FILTER PRODUCTS Use Case | &nbsp;
 --: | :--
-Name: | 
+Name: | Filter Products
 Actors: | Guest, Registered User
 Description: | Describes the process used to filter products by parameter when browsing items for sale.
 Successful completion: | 1. User selects parameters in the side bar to apply filters of their choice.
@@ -223,7 +223,7 @@ Assumptions: | User is currently browsing products page.
 
 PAYMENT METHODS Use Case | &nbsp;
 --: | :--
-Name: | Filter Products
+Name: | Payment Methods
 Actor: | Registered User
 Description: | Describes the process used to select between different payment methods during checkout.
 Successful completion: | 1. Registered User selects one of the alternative payment methods listed near the payment information form.<br>2. Registered User completes the instructions necessary for the selected payment method.
