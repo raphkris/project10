@@ -109,39 +109,31 @@ ID | Status | Priority | User Story | Estimated Difficulty | Acceptance Criteria
 
 # 2. Analysis
 ## 2.1. Description of Problem
- - minimal diversity of payment options
- - little to no animations with interactions
- - only one method of SSO (Google)
-
-
+An increasing amount of people are choosing to shop online rather than in person. As a result, businesses want to make sure that the buying process is as smooth and convenient as possible to increase the likelihood that a customer will return and shop with them again. To achieve this, specifically for e-commerce, a few strategies that businesses have employed include convenient user sign-in options and digital wallet payment methods during the checkout process. Implementing these strategies to Micro Center's website will significantly improve customers' online shopping experience. Besides, there are times when Micro Center's customers do not spend time browsing products as they know what they specifically need to buy and prefer to get through shopping as quickly as possible. Offering digital wallet payment methods seeks to alleviate this issue, so customers spend less time going through the shopping process and have more time to invest in their tech-related work.
 
 ## 2.2. Technologies Used
+Category | Name | Purpose
+:- | :- | :-
+Languages | HTML | 
+&nbsp; | CSS | 
+&nbsp; | JS | 
+&nbsp; | C# | 
+Frameworks | jQuery | 
+&nbsp; | MVC | 
+&nbsp; | Bootstrap 4 | 
+Services | draw.io | Diagrams
+&nbsp; | Github | Repository
+&nbsp; | Github Student Pack | Free access to services
+Programs | Microsoft Word | Documentation
+&nbsp; | Visual Studio | 
+&nbsp; | Visual Studio Code | 
+Hosting | namecheap | Domain
+
 - POSSIBLE
 	- stripe (payment platform)
 	- Square .NET SDK (payment platform)
 	- Braintree GraphQL API (payment platform)
 	- Auth0 (SSO)
-
-- CERTAIN
-	- LANGUAGES
-		- HTML
-		- CSS
-		- JS
-		- C#
-	- FRAMEWORKS
-		- JQUERY
-		- MVC
-		- Bootstrap 4
-	- SERVICES
-		- Github (for repository)
-		- Github Student Pack
-	- PROGRAMS
-		- Visual Studio
-		- VSCODE
-		- draw.io (diagrams)
-		- Microsoft Word
-	- HOSTING
-		- namecheap (domain)
 
 
 ## 2.3. System Architecture
@@ -159,18 +151,18 @@ Description: | Describes the process used to create an account.
 Successful completion: | 1. Guest navigates to "Account" log in page.<br>2. Guest navigates to "Create account" page.<br>3. Guest completes account registration form.<br>4. Account registration is confirmed with the guest.
 Alternative: | 1. Guest navigates to "Account" log in page.<br>2. Guest navigates to "Create account" page.<br>3. Guest completes account registration form.<br>4. Guest is notified "A registered account is already associated with that email."<br>5. Prompt Guest to navigate to "Reset password" page.
 Precondition: | Guest wants to create an account.
-Postcondition: | Guest has a user account associated with the ecommerce website.
-Assumptions: | 1. Guest is not logged in to an ecommerce account.<br>2. Guest wants to create an account associated with the ecommerce website.<br>3. Guest does not want to use SSO to log in to the ecommerce website.
+Postcondition: | Guest has a user account associated with the e-commerce website.
+Assumptions: | 1. Guest is not logged in to an e-commerce account.<br>2. Guest wants to create an account associated with the e-commerce website.<br>3. Guest does not want to use SSO to log in to the e-commerce website.
 
 SSO Use Case | &nbsp;
 --: | :--
 Name: | SSO
 Actor: | Guest
-Description: | Describes the process used to log in to the ecommerce website using SSO.
+Description: | Describes the process used to log in to the e-commerce website using SSO.
 Successful completion: | 1. Guest navigates to "Account" log in page.<br>2. Guest selects one of the SSO methods listed near the log in form.<br>3. Guest follows prompts appropriate for their SSO of choice.<br>4. Guest is redirected to the home page.
-Precondition: | Guest wants to log in to the ecommerce website using SSO.
-Postcondition: | Guest is logged in to the ecommerce website.
-Assumptions: | 1. Guest has an existing account with one or more of the SSO methods offered.<br>2. Guest is not logged in to an ecommerce account.
+Precondition: | Guest wants to log in to the e-commerce website using SSO.
+Postcondition: | Guest is logged in to the e-commerce website.
+Assumptions: | 1. Guest has an existing account with one or more of the SSO methods offered.<br>2. Guest is not logged in to an e-commerce account.
 
 MANAGE ACCOUNT Use Case | &nbsp;
 --: | :--
@@ -180,7 +172,7 @@ Description: | Describes the process used to manage a user's account.
 Successful completion: | 1. Registered User selects "Account" link located in navigation menu.<br>2. Registered User selects "Manage Account" link.
 Precondition: | Registered User wants to manage their account data and account preferences.
 Postcondition: | Registered User is directed to a page that displays user account operations.
-Assumptions: | Registered User is currently logged in using an account associated with the ecommerce website or any one of the SSO services.
+Assumptions: | Registered User is currently logged in using an account associated with the e-commerce website or any one of the SSO services.
 
 DELETE ACCOUNT Use Case | &nbsp;
 --: | :--
@@ -188,9 +180,9 @@ Name: | Delete Account
 Actor: | Registered User
 Description: | Describes the process used to delete a user's account.
 Successful completion: | 1. Registered User selects "Account" link located in navigation menu.<br>2. Registered User selects "Manage Account" link.<br>3. Registered User selects "Delete Account".<br>4. Confirmation modal of account operation is displayed.<br>5. Registered User selects "Confirm".
-Precondition: | Registered User wants to delete their account associated with the ecommerce website.
-Postcondition: | 1. Registered User's account is deleted.<br>2. User no longer has a registered account associated with the ecommerce website.
-Assumptions: | Registered user is currently logged in using an account associated with the ecommerce website.
+Precondition: | Registered User wants to delete their account associated with the e-commerce website.
+Postcondition: | 1. Registered User's account is deleted.<br>2. User no longer has a registered account associated with the e-commerce website.
+Assumptions: | Registered user is currently logged in using an account associated with the e-commerce website.
 
 UPDATE ACCOUNT EMAIL Use Case | &nbsp;
 --: | :--
@@ -198,9 +190,9 @@ Name: | Update Account Email
 Actor: | Registered User
 Description: | Describes the process used to update the email address associated with a user's account.
 Successful completion: | 1. Registered User selects "Account" link located in navigation menu.<br>2. Registered User selects "Manage Account" link.<br>3. Registered User selects "Update Email" option.<br>4. Registered User fills in email text box.<br>5. Registered User selects "Update email" button.<br>6. "Email successfully updated." modal is displayed.
-Precondition: | Registered User wants to update the email address associated with their ecommerce website account.
+Precondition: | Registered User wants to update the email address associated with their e-commerce website account.
 Postcondition: | Registered User's account email address is updated.
-Assumptions: | Registered User is currently logged in using an account associated with the ecommerce website.
+Assumptions: | Registered User is currently logged in using an account associated with the e-commerce website.
 
 UPDATE ACCOUNT PASSWORD Use Case | &nbsp;
 --: | :--
@@ -209,9 +201,9 @@ Actor: | Registered User
 Description: | Describes the process used to update the password associated with a user's account.
 Successful completion: | 1. Registered User selects "Account" link located in navigation menu.<br>2. Registered User selects "Manage Account" link.<br>3. Registered User selects "Change password" option.<br>4. Registered User completes the password update form.<br>5. "Password successfully changed." modal is displayed.
 Alternative: | 1. Registered User selects "Account" link located in navigation menu.<br>2. Registered User selects "Manage Account" link.<br>3. Registered User selects "Change password" option.<br>4. Registered User completes the password update form.<br>5. "Password does not meet the requirements." modal is displayed.
-Precondition: | Registered User wants to update the password associated with their ecommerce website account.
+Precondition: | Registered User wants to update the password associated with their e-commerce website account.
 Postcondition: | Registered User's account password is updated.
-Assumptions: | Registered User is currently logged in using an account associated with the ecommerce website.
+Assumptions: | Registered User is currently logged in using an account associated with the e-commerce website.
 
 FILTER PRODUCTS Use Case | &nbsp;
 --: | :--
@@ -231,7 +223,7 @@ Description: | Describes the process used to select between different payment me
 Successful completion: | 1. Registered User selects one of the alternative payment methods listed near the payment information form.<br>2. Registered User completes the instructions necessary for the selected payment method.
 Precondition: | Registered User wants to select a different method of payment.
 Postcondition: | Registered User is using an alternative payment method.
-Assumptions: | 1. Registered User is currently logged in using an account associated with the ecommerce website or any one of the SSO services.<br>2. Registered User is currently in the payment step of the checkout process.
+Assumptions: | 1. Registered User is currently logged in using an account associated with the e-commerce website or any one of the SSO services.<br>2. Registered User is currently in the payment step of the checkout process.
 
 MANAGE INVENTORY Use Case | &nbsp;
 --: | :--
