@@ -101,6 +101,7 @@ ID | Status | Priority | User Story | Estimated Difficulty | Acceptance Criteria
  - SHA
  - UX
  - UI
+ - SSO
 
 
 ---
@@ -152,100 +153,93 @@ CREATE ACCOUNT Use Case | &nbsp;
 --: | :--
 Name: | Create Account
 Actor: | Guest
-Description: | Describes the process used to create an account
-Successful completion: | 
-Alternative: | 
-Precondition: | 
-Postcondition: | 
-Assumptions: | 
+Description: | Describes the process used to create an account.
+Successful completion: | 1. Guest navigates to "Account" log in page.<br>2. Guest navigates to "Create account" page.<br>3. Guest completes account registration form.<br>4. Account registration is confirmed with the guest.
+Alternative: | 1. Guest navigates to "Account" log in page.<br>2. Guest navigates to "Create account" page.<br>3. Guest completes account registration form.<br>4. Guest is notified "A registered account is already associated with that email."<br>5. Prompt Guest to navigate to "Reset password" page.
+Precondition: | Guest wants to create an account.
+Postcondition: | Guest has a user account associated with the ecommerce website.
+Assumptions: | 1. Guest is not logged in to an ecommerce account.<br>2. Guest wants to create an account associated with the ecommerce website.<br>3. Guest does not want to use SSO to log in to the ecommerce website.
 
-TITLE Use Case | &nbsp;
+SSO Use Case | &nbsp;
 --: | :--
-Name: | 
+Name: | SSO
 Actor: | Guest
-Description: | 
-Successful completion: | 
-Alternative: | 
-Precondition: | 
-Postcondition: | 
-Assumptions: | 
+Description: | Describes the process used to log in to the ecommerce website using SSO.
+Successful completion: | 1. Guest navigates to "Account" log in page.<br>2. Guest selects one of the SSO methods listed near the log in form.<br>3. Guest follows prompts appropriate for their SSO of choice.<br>4. Guest is redirected to the home page.
+Precondition: | Guest wants to log in to the ecommerce website using SSO.
+Postcondition: | Guest is logged in to the ecommerce website.
+Assumptions: | 1. Guest has an existing account with one or more of the SSO methods offered.<br>2. Guest is not logged in to an ecommerce account.
 
-TITLE Use Case | &nbsp;
+MANAGE ACCOUNT Use Case | &nbsp;
+--: | :--
+Name: | Manage Account
+Actor: | Registered User
+Description: | Describes the process used to manage a user's account.
+Successful completion: | 1. Registered User selects "Account" link located in navigation menu.<br>2. Registered User selects "Manage Account" link.
+Precondition: | Registered User wants to manage their account data and account preferences.
+Postcondition: | Registered User is directed to a page that displays user account operations.
+Assumptions: | Registered User is currently logged in using an account associated with the ecommerce website or any one of the SSO services.
+
+DELETE ACCOUNT Use Case | &nbsp;
+--: | :--
+Name: | Delete Account
+Actor: | Registered User
+Description: | Describes the process used to delete a user's account.
+Successful completion: | 1. Registered User selects "Account" link located in navigation menu.<br>2. Registered User selects "Manage Account" link.<br>3. Registered User selects "Delete Account".<br>4. Confirmation modal of account operation is displayed.<br>5. Registered User selects "Confirm".
+Precondition: | Registered User wants to delete their account associated with the ecommerce website.
+Postcondition: | 1. Registered User's account is deleted.<br>2. User no longer has a registered account associated with the ecommerce website.
+Assumptions: | Registered user is currently logged in using an account associated with the ecommerce website.
+
+UPDATE ACCOUNT EMAIL Use Case | &nbsp;
+--: | :--
+Name: | Update Account Email
+Actor: | Registered User
+Description: | Describes the process used to update the email address associated with a user's account.
+Successful completion: | 1. Registered User selects "Account" link located in navigation menu.<br>2. Registered User selects "Manage Account" link.<br>3. Registered User selects "Update Email" option.<br>4. Registered User fills in email text box.<br>5. Registered User selects "Update email" button.<br>6. "Email successfully updated." modal is displayed.
+Precondition: | Registered User wants to update the email address associated with their ecommerce website account.
+Postcondition: | Registered User's account email address is updated.
+Assumptions: | Registered User is currently logged in using an account associated with the ecommerce website.
+
+UPDATE ACCOUNT PASSWORD Use Case | &nbsp;
+--: | :--
+Name: | Update Account Password
+Actor: | Registered User
+Description: | Describes the process used to update the password associated with a user's account.
+Successful completion: | 1. Registered User selects "Account" link located in navigation menu.<br>2. Registered User selects "Manage Account" link.<br>3. Registered User selects "Change password" option.<br>4. Registered User completes the password update form.<br>5. "Password successfully changed." modal is displayed.
+Alternative: | 1. Registered User selects "Account" link located in navigation menu.<br>2. Registered User selects "Manage Account" link.<br>3. Registered User selects "Change password" option.<br>4. Registered User completes the password update form.<br>5. "Password does not meet the requirements." modal is displayed.
+Precondition: | Registered User wants to update the password associated with their ecommerce website account.
+Postcondition: | Registered User's account password is updated.
+Assumptions: | Registered user is currently logged in using an account associated with the ecommerce website.
+
+FILTER PRODUCTS Use Case | &nbsp;
 --: | :--
 Name: | 
-Actor: | Guest
-Description: | 
-Successful completion: | 
-Alternative: | 
-Precondition: | 
-Postcondition: | 
-Assumptions: | 
+Actors: | Guest, Registered User
+Description: | Describes the process used to filter products by parameter when browsing items for sale.
+Successful completion: | 1. User selects parameters in the side bar to apply filters of their choice.
+Precondition: | User wants to filter products by parameter.
+Postcondition: | Products are filtered by user selected parameters.
+Assumptions: | User is currently browsing products page.
 
-TITLE Use Case | &nbsp;
+PAYMENT METHODS Use Case | &nbsp;
 --: | :--
-Name: | 
-Actor: | Guest
-Description: | 
-Successful completion: | 
-Alternative: | 
-Precondition: | 
-Postcondition: | 
-Assumptions: | 
+Name: | Filter Products
+Actor: | Registered User
+Description: | Describes the process used to select between different payment methods during checkout.
+Successful completion: | 1. Registered User selects one of the alternative payment methods listed near the payment information form.<br>2. Registered User completes the instructions necessary for the selected payment method.
+Precondition: | Registered User wants to select a different method of payment.
+Postcondition: | Registered User is using an alternative payment method.
+Assumptions: | 1. Registered User is currently logged in using an account associated with the ecommerce website or any one of the SSO services.<br>2. Registered User is currently in the payment step of the checkout process.
 
-TITLE Use Case | &nbsp;
+MANAGE INVENTORY Use Case | &nbsp;
 --: | :--
-Name: | 
-Actor: | Guest
-Description: | 
-Successful completion: | 
-Alternative: | 
-Precondition: | 
-Postcondition: | 
-Assumptions: | 
-
-TITLE Use Case | &nbsp;
---: | :--
-Name: | 
-Actor: | Guest
-Description: | 
-Successful completion: | 
-Alternative: | 
-Precondition: | 
-Postcondition: | 
-Assumptions: | 
-
-TITLE Use Case | &nbsp;
---: | :--
-Name: | 
-Actor: | Guest
-Description: | 
-Successful completion: | 
-Alternative: | 
-Precondition: | 
-Postcondition: | 
-Assumptions: | 
-
-TITLE Use Case | &nbsp;
---: | :--
-Name: | 
-Actor: | Guest
-Description: | 
-Successful completion: | 
-Alternative: | 
-Precondition: | 
-Postcondition: | 
-Assumptions: | 
-
-TITLE Use Case | &nbsp;
---: | :--
-Name: | 
-Actor: | Admin
-Description: | 
-Successful completion: | 
-Alternative: | 
-Precondition: | 
-Postcondition: | 
-Assumptions: | 
+Name: | Manage Inventory
+Actor: | Administrator
+Description: | Describes the process used to manage inventory.
+Successful completion: | 1. Administrator navigates to Admin log in page.<br>2. Administrator logs in to the Admin dashboard.
+Precondition: | Administrator wants to manage inventory items.
+Postcondition: | Administrator manages inventory items through the Admin dashboard.
+Assumptions: | User has an existing Administrator account.
 
 ## 2.5. (additional sections for any other mockups and diagrams available)
 
