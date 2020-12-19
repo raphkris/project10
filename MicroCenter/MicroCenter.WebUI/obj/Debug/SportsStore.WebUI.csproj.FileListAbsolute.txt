@@ -1,0 +1,234 @@
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojAssemblyReference.cache
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CoreCompileInputs.cache
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe.config
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\csc.rsp
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\csi.exe
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\csi.exe.config
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\csi.rsp
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\System.Buffers.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\System.Memory.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\System.Numerics.Vectors.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe.config
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.rsp
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Castle.Core.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Moq.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Threading.Tasks.Extensions.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\WebActivator.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll.config
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Castle.Core.xml
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Moq.xml
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.pdb
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Runtime.CompilerServices.Unsafe.xml
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Threading.Tasks.Extensions.xml
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CopyComplete
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+Y:\CWEB2011.01 Business Applications\new\Projects\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe.config
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\csc.rsp
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\csi.exe
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\csi.exe.config
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\csi.rsp
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\System.Buffers.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\System.Memory.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\System.Numerics.Vectors.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe.config
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.rsp
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Castle.Core.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Moq.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Threading.Tasks.Extensions.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\WebActivator.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll.config
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Castle.Core.xml
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Moq.xml
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.pdb
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Runtime.CompilerServices.Unsafe.xml
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Threading.Tasks.Extensions.xml
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojAssemblyReference.cache
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CoreCompileInputs.cache
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CopyComplete
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+Y:\CWEB2011.01 Business Applications\new (fall semester)\Projects\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\csc.exe
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\csc.exe.config
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\csc.rsp
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\csi.exe
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\csi.exe.config
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\csi.rsp
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\System.Buffers.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\System.Memory.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\vbc.rsp
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\Castle.Core.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\Moq.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\WebActivator.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\SportsStore.Domain.dll.config
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\Castle.Core.xml
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\Moq.xml
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\Ninject.pdb
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojAssemblyReference.cache
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CopyComplete
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\manrapk\Desktop\MicroCenter\MicroCenter\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
